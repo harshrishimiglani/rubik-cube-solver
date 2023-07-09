@@ -2,7 +2,6 @@
 
 We implement a verion of Thisletwaite's algorithm along with pattern database technique to give resonably short solution (theoritically up to 52 moves, in reality all our test cases has been < 45 moves) to any Rubik's cube in reasonable time (2-3 seconds). Outputs both a list of moves required to solve the cube and an OpenGl rendition of the shuffled cube being solved.
 
-This project is done with my coding partner Liam Dehaudt, written in C++ with OpenGL visualizer.
 
 ## Showcase Video
 [![Rubik Video](screenshots/2.png)](https://www.youtube.com/watch?v=KKVDuF6clww "Thistlethwaite Rubik's Solver")
